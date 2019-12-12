@@ -1,0 +1,122 @@
+.btn-primary {
+    background: #313461;
+    border-color: #313461;
+}
+
+.jumbotron {
+    background: #333 url(../img/kitchen.jpg) -100px -600px;
+    color: #ffffff;
+    text-align: center;
+    border-bottom: 5px #f4f4f4 solid;
+}
+
+.jumbotron-main {
+    padding: 0 60px 40px 60px;
+}
+
+.jumbotron-main h1 {
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.jumbotron p.lead {
+    font-size: 25px;
+    margin-bottom: 60px;
+}
+
+.navbar {
+    margin: 0;
+    background: transparent;
+    border: none;
+}
+
+.navbar a {
+    color: #ffffff;
+    margin-bottom: 3px;
+}
+
+.navbar a:hover {
+    background: none !important;
+    border-bottom: #ffffff 3px solid;
+    margin-bottom: 0;
+}
+
+.box {
+    text-align: center;
+}
+
+.box .glyphicon {
+    font-size: 25px;
+}
+
+.section-a {
+    background: #f5f5f5;
+    color: none;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 30px;
+}
+
+.section-a h1 {
+    font-size: 50px;
+}
+
+.img-full {
+    width: 100%;
+}
+
+.main-footer {
+    background: hsl(0, 0%, 96%);
+    padding: 50px;
+}
+
+.div footer-sitemap-background {
+    background: rgb(16, 44, 44);
+}
+
+#input-text {
+    border: 2px solid teal;
+    box-sizing: border-box;
+    padding: 6px 20px;
+    width: 40%;
+    color: #333;
+}
+
+#search-input {
+    border: 2px solid teal;
+    box-sizing: border-box;
+    padding: 6px 20px;
+    width: 40%;
+    color: #333;
+    overflow: visible
+}
+
+#search_Input {
+    border: solid 50px 50px;
+    box-sizing: border-box;
+    padding: 6px 10px;
+    width: 20%;
+    color: #333;
+    overflow: visible
+}
+
+.div items {
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar navbar navbar-default {
+    background: rgba(255, 255, 255, 0)
+}
+
+.main-footer {
+    text-align: center
+}
+
+.ha--sp_acquisition {
+    text-align: center
+}
+
+#screen {
+    text-align: center
+}
